@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" output="bin/keyword" path="Keywords"/>
+	<classpathentry kind="src" output="bin/lib" path="Libs"/>
+	<classpathentry kind="lib" path="C:/Workspace/katalon/source/com.kms.katalon.core/bin" sourcepath="C:/Workspace/katalon/source/com.kms.katalon.core/src"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/net.sf.supercsv.super-csv_2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.apache.poi_3.9.0.v201405241750.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.apache.poi.ooxml_3.9.0.v201405241905.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.apache.poi.ooxml.schemas_3.9.0.v201405241750.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.dom4j_1.6.1.v201312101416.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.apache.commons.io_2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Programs/Eclipse Neon (4.6)/plugins/org.apache.commons.lang_2.6.0.v201404270220.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.apache.xmlbeans_2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/com.google.gson_2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Programs/Eclipse Neon (4.6)/plugins/org.jsoup_1.7.2.v201411291515.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/com.mysql.jdbc_5.1.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/com.microsoft.sqlserver.sqljdbc4_4.1.5605.100.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.apache.commons.dbutils_1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/com.oracle.jdbc.ojdbc7_12.1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.postgresql.jdbc41_9.4.1208.jre7.jar"/>
+	<classpathentry kind="lib" path="C:/Programs/Eclipse Neon (4.6)/plugins/org.eclipse.osgi_3.11.0.v20160603-1336.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.eclipse.persistence.eclipselink_2.5.0.RC1.jar"/>
+	<classpathentry kind="lib" path="C:/Workspace/katalon/source/com.kms.katalon.selenium-standalone/bin" sourcepath="C:/Workspace/katalon/source/com.kms.katalon.selenium-standalone/src"/>
+	<classpathentry kind="lib" path="C:/Workspace/katalon/source/com.kms.katalon.selenium-standalone/resources/lib/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Workspace/katalon/source/com.kms.katalon.jbrowser/bin" sourcepath="C:/Workspace/katalon/source/com.kms.katalon.jbrowser/src"/>
+	<classpathentry kind="lib" path="C:/Workspace/katalon/source/com.kms.katalon.jbrowser/resources/lib/fast-classpath-scanner-1.93.0.jar"/>
+	<classpathentry kind="lib" path="C:/Workspace/katalon/source/com.kms.katalon.jbrowser/resources/lib/httpclient-cache-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Workspace/katalon/source/com.kms.katalon.jbrowser/resources/lib/jbrowserdriver-0.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Workspace/katalon/source/com.kms.katalon.jbrowser/resources/lib/jbrowserdriver-lib-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Workspace/katalon/source/com.kms.katalon.jbrowser/resources/lib/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Workspace/katalon/source/com.kms.katalon.jbrowser/resources/lib/slf4j-simple-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Workspace/katalon/source/com.kms.katalon.jbrowser/resources/lib/zt-exec-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Workspace/katalon/source/com.kms.katalon.jbrowser/resources/lib/zt-process-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.zeroturnaround.zt-exec_1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.zeroturnaround.zt-process_1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.apache.commons.codec_1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.apache.commons.logging_1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.apache.httpcomponents.httpcore_4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.apache.httpcomponents.httpclient_4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Workspace/katalon/source/com.kms.katalon.core.appium/bin" sourcepath="C:/Workspace/katalon/source/com.kms.katalon.core.appium/src"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/io.appium.java-client_3.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Programs/Eclipse Neon (4.6)/plugins/org.apache.commons.lang3_3.1.0.v201403281430.jar"/>
+	<classpathentry kind="lib" path="C:/Workspace/katalon/source/com.kms.katalon.core.webui/bin" sourcepath="C:/Workspace/katalon/source/com.kms.katalon.core.webui/src"/>
+	<classpathentry kind="lib" path="C:/Workspace/katalon/source/com.kms.katalon.core.webui/resources/lib/sikuli-api-1.0.2-standalone.jar"/>
+	<classpathentry kind="lib" path="C:/Workspace/katalon/source/com.kms.katalon.core.mobile/bin" sourcepath="C:/Workspace/katalon/source/com.kms.katalon.core.mobile/src"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.apache.commons.validator_1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Workspace/katalon/source/com.kms.katalon.core.webservice/bin" sourcepath="C:/Workspace/katalon/source/com.kms.katalon.core.webservice/src"/>
+	<classpathentry kind="lib" path="C:/Users/hieumai/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/wsdl4j_1.6.2.jar"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
